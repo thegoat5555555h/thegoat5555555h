@@ -1,6 +1,6 @@
 # 👋 Hi, I'm thegoat5555555h
 
-## 🛡️ Cyber Security Expert & Developer
+## 🛡️ Cyber Security Expert, Developer & Minecraft Plugin Creator
 
 Welcome to my GitHub profile! I’m a passionate developer with a keen eye for security. My main programming language is **Python**, and I love building tools and projects that push the boundaries of what’s possible in the world of cyber security.
 
@@ -19,6 +19,13 @@ Welcome to my GitHub profile! I’m a passionate developer with a keen eye for s
 - **Python** (my main weapon of choice)
 - Cyber Security
 - Scripting & Automation
+- Minecraft Plugin Development (Java, Spigot)
+
+---
+
+### 🧩 Minecraft Plugins
+
+[VoteReminder](https://github.com/thegoat5555555h/VoteReminder) — A custom Minecraft plugin to remind players to vote, improving server engagement and visibility.
 
 ---
 
@@ -29,5 +36,6 @@ Welcome to my GitHub profile! I’m a passionate developer with a keen eye for s
 - Here to collaborate, innovate, and secure
 
 ---
+
 Thanks for stopping by!  
-Feel free to check out my work, and let’s connect if you share the same passion for coding and security.
+Feel free to check out my work, and let’s connect if you share the same passion for coding, security, or Minecraft plugin development.
